@@ -1,0 +1,13 @@
+node_modules
+dist
+build
+
+*/**/.turbo
+
+*/**/build
+*/**/dist
+*/**/.env
+
+*/**/.DS_Store
+
+.env
